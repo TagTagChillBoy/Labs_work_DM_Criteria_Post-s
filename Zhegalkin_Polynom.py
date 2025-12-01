@@ -1,7 +1,7 @@
 import math
 
 poly_values = [int(d) for d in input().split()]
-n = int(math.log2(len(poly_values)))  # количество переменных
+n = int(math.log2(len(poly_values)))
 
 coefficients = []
 
@@ -15,4 +15,5 @@ for i in range(1, 2 ** n):
 
 for j in range(2 ** n):
     coefficients.append(triangle[j][0])
+
 print(*coefficients)
