@@ -1,5 +1,3 @@
-﻿# Labs_work_DM_Criteria_Post-s
-
 <h1>Discrete Mathematics Lab Solutions</h1>
 
 Post's_Criteria.py <br>
@@ -10,3 +8,4 @@ Schaeffer's_Stroke.py <br>
 
 Zhegalkin's_Polynom.py <br>
 🧮 Zhegalkin Polynomial Constructor – Computes the algebraic normal form (ANF) of a Boolean function via the Möbius transform (triangle method). 
+
